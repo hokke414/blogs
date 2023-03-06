@@ -82,7 +82,7 @@ ul li a:before{
 .main {
   margin-left: 300px;
   margin-right: 300px;
-  height: 2000px;
+  height: 1500px;
   text-align:left;
   flex-direction: row;
   flex-grow: 1;
